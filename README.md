@@ -37,10 +37,10 @@ I specialize in:
 * Bash
 * Python
 
-to=Monitoring & Logging*
+### 🕵🏼‍♂️ Monitoring & Logging*
 * Prometheus*
 * Grafana*
-* AWS CloudWatch*
+* Datadog*
  
 ### 🔐 Tools & OS 
  * Git & GitHub 
@@ -55,7 +55,7 @@ to=Monitoring & Logging*
  * Designed and implemented automated CI/CD pipeline 
  * Integrated Docker for containerization 
  * Enabled faster and consistent deployments 
- **Tech Used:** Jenkins, Docker, Git 
+ **Tech Used:** Jenkins, Docker, Git, AWS
  ---
  
 ### 🔹 2. Kubernetes Deployment on AWS 
@@ -70,9 +70,5 @@ to=Monitoring & Logging*
  * Created reusable and modular IaC code 
  * Reduced manual configuration errors 
  **Tech Used:** Terraform, AWS 
-d ---
-d ## 📊 Architecture  ​
-d ​
-d ![Architecture](./architecture.png) ​
-d ​
-d---​
+ ---
+
